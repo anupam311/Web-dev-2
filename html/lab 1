@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction</title>
+</head>
+<body align="center">
 
+    <h1>ANUPAM CHAUDHARY</h1>
+    <hr width="500" size="3" color="black">
+    
+    <p>Good morning everyone. My name is anupam chaudhary,a student at K.R.Mangalam university,<br>
+    currently studying as a 1st year student of B.Tech C.S.E. AI/ML course.</p>
+    
+    <hr width="800" size="2" color="black">
+    <h2>HOBBIES</h2>
+    
+    <hr width="500" size="3" color="black">
+    <p>My hobbies include chess, running and skeching. Other than these, there are only 2<br>
+    options for me, either i've got something to do or I'll end up in a deep sleep like a sloth.</p>
+</body>
+</html>
