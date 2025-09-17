@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>NATURE</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2oASENe7GdCli1KnAl6cnDnuD6lGT60txQ&s" alt="Nature image">
+    <p>The image shows the tranquil, serene and brightening beauty of our nature,<br>
+    composed of those fresh water rivers, those ice-canopy mountains and those<br>
+    lush green mountains as the sunlight shines upon them.</p>
+    <hr>
+    <h2>IRON MAN</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc9oS2rxDoPVxav4AUqPCGL2zUfqUB1OSnJA&s" alt="Iron Man">
+    <p>ron Man is a superhero appearing in American comic books published by Marvel<br>
+        Comics. Co-created by writer and editor Stan Lee, developed by scripter Larry<br>
+        Lieber, and designed by artists Don Heck and Jack Kirby.</p>
+    <hr>
+    <h2>SATORU GOJO</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEk_T8-OCTm4ZzIURjnZIHTmJBplD7b7e2w&s" alt="The 6-eyed prodigy, SATORU GOJO">
+    <p>Satoru Gojo (Japanese: 五条 悟, Hepburn: Gojō Satoru) is a fictional character<br>
+        Gege Akutami's manga and anime series Jujutsu Kaisen.Gojo was designed by Akutami<br>
+        to be a formidable yet endearing figure who is passionate about his students. He<br>
+        is voiced by Yūichi Nakamura in Japanese and Kaiji Tang in English and Lohit Sharma<br>
+        in Hindi in the animated adaptations by MAPPA.</p>
+</body>
+</html>
