@@ -17,7 +17,7 @@ A simple, clean, and beginner-friendly **one-page responsive portfolio website**
 
 ## 📂 Project Structure
 ```
-index.html      → Main portfolio webpage
+profile_webpage.html      → Main portfolio webpage
 README.md       → Project documentation
 ```
 
@@ -59,7 +59,7 @@ You can easily customize:
 ---
 
 ## 🛠️ How to Use
-1. Download or copy the `index.html` file.
+1. Download or copy the `profile_webpage.html` file.
 2. Open it in any browser.
 3. Customize text, colors, and links as needed.
 
@@ -78,10 +78,4 @@ You can easily customize:
 
 ---
 
-If you want, I can help you generate:
-✔ A downloadable ZIP folder
-✔ A GitHub-ready version
-✔ A more advanced version with JavaScript
-✔ Screenshot previews for README
 
-Just tell me!
